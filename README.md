@@ -97,6 +97,6 @@ bcrypt
 
 Some more things to note when submitting:
 
-- If there is no passwords, put "N/A".
+- If there is no passwords, put "N/A" for the hashes value. If passwords are not hashed with anything put "plaintext". If multiple hashing algorithms are used throughout the database (I.e. if they upgraded their systems, and switched from bcrypt to argon2id) then list all the different ones that were used.
 - Make sure the date is correct, or if you're updating a current entry change the "date" value to the current day.
-- If a website was breached in the past but it needs to be listed again, add a number at the end of the name, (e.g. ogusers-com-1.md, ogusers-com-2.md)
+- If a website was breached in the past but it needs to be listed again due to another breach, add a number at the end of the name, (e.g. ogusers-com-1.md, ogusers-com-2.md)
