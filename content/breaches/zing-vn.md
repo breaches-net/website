@@ -1,14 +1,14 @@
 +++
-title = "VNG"
+title = "VNG / Zing.in"
 domain = "https://zing.vn"
 date_breached = "2015-05-19"
 date = "2022-05-04"
 record_count = "24,853,850"
 privacy = "Public"
 Verified = "True"
-hashing = ["MD5"]
+hashing = ["MD5", "plaintext"]
 breached_data = ["Dates of birth", "Email addresses", "Genders", "IP addresses", "Marital statuses", "Names", "Occupations", "Passwords", "Phone numbers", "Physical addresses", "Usernames"]
-categories = []
+categories = ["Gaming"]
 acknowledged = "Yes"
 acknowledged_url = "https://web.archive.org/web/20211029005245/https://www.freezenet.ca/vng-apologizes-data-breach-exposed-163-million-accounts/?relatedposts=1"
 +++
