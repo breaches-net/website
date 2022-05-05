@@ -1,7 +1,7 @@
 # breaches.net Website
 ![](https://a.pomf.cat/yoymgd.png)
 
-Made using Hugo. https://gohugo.io/
+Made using Hugo (https://gohugo.io/) & used the Theme https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/ as a template.
 
 Want to contribute a breach?
 
