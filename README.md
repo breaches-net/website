@@ -47,7 +47,7 @@ acknowledged_url = "https://archive.md/MXs01"
 In September 2019, game developer <a href="https://www.cnet.com/news/words-with-friends-hack-reportedly-exposes-data-of-more-than-200m-players/" target="_blank" rel="noopener">Zynga (the creator of Words with Friends) suffered a data breach</a>. The incident exposed 173M unique email addresses alongside usernames and passwords stored as salted SHA-1 hashes.
 ```
 
-For the hashing value(s), please use the proper capitalization (If the hash in the breach isn't listed here, then use whatever is correct):
+For the hashing value(s), please use the proper capitalization (If the hashing algorithm in the breach isn't listed here, then use whatever is correct):
 ```
 sha256hmac
 SHA1BCRYPT-CUSTOM
