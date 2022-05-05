@@ -3,7 +3,7 @@
 
 Made using Hugo (https://gohugo.io/) & used the Theme https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/ as a template.
 
-Want to contribute a breach?
+Want a breach added to the list?
 
 - Create a new file in `/content/breaches/` folder. File name must have periods replaced with dots, and follow the format that all the other breach entries follow.
 - Follow the rest of the steps given below.
