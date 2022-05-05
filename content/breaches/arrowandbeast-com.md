@@ -1,5 +1,5 @@
 +++
-title = "ARROW &amp; BEAST"
+title = "ARROW & BEAST"
 domain = "https://arrowandbeast.com"
 date_breached = "2020-01-28"
 date = "2022-05-04"

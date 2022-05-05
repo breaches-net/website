@@ -1,5 +1,5 @@
 +++
-title = "Dungeons &amp; Dragons Online"
+title = "Dungeons & Dragons Online"
 domain = "https://ddo.com"
 date_breached = "2013-04-02"
 date = "2022-05-04"

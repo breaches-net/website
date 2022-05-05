@@ -1,5 +1,5 @@
 +++
-title = "Mums &amp; Babes"
+title = "Mums & Babes"
 domain = "https://mumsandbabes.com"
 date_breached = "2018-11-06"
 date = "2022-05-04"

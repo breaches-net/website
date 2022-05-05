@@ -11,4 +11,4 @@ breached_data = ["Email addresses", "Passwords"]
 categories = []
 acknowledged = "No"
 +++
-In late 2016, the online Chinese video service <a href="http://www.youku.com" target="_blank" rel="noopener">Youku</a> suffered a data breach. The incident exposed 92 million unique user accounts and corresponding MD5 password hashes. The data was contributed to Have I Been Pwned courtesy of rip@creep.im.
+In late 2016, the online Chinese video service <a href="http://www.youku.com" target="_blank" rel="noopener">Youku</a> suffered a data breach. The incident exposed 92 million unique user accounts and corresponding MD5 password hashes.
