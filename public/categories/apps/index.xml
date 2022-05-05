@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Breaches.net - The Breached Database Directory</title>
+    <link>https://breaches.net/categories/apps/</link>
+    <description>Recent content in Apps on Breaches.net - The Breached Database Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://breaches.net/categories/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai.type</title>
+      <link>https://breaches.net/breaches/aitype-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/aitype-com/</guid>
+      <description>In December 2017, the virtual keyboard application ai.type was found to have left a huge amount of data publicly facing in an unsecured MongoDB instance. Discovered by researchers at The Kromtech Security Center, the 577GB data set included extensive personal information including over 20 million unique email addresses, social media profiles and address book contacts.</description>
+    </item>
+    
+    <item>
+      <title>Akargo</title>
+      <link>https://breaches.net/breaches/akargo-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/akargo-com/</guid>
+      <description>Breached by DonJuji on 2021-01-11.</description>
+    </item>
+    
+  </channel>
+</rss>

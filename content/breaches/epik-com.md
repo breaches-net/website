@@ -1,0 +1,21 @@
++++
+
+title = "Epik"
+domain = "https://epik.com"
+date_breached = "2021-09-13"
+date = "2022-05-04"
+record_count = "15,003,961"
+privacy = "Public"
+Verified = "True"
+hashing = ["MD5", "plaintext"]
+breached_data = ["Email addresses", "Names", "Phone numbers", "Physical addresses", "Purchases"]
+type = ["posts","post"]
+categories = []
+acknowledged = "Yes"
+acknowledged_url = "https://web.archive.org/web/20211016230342/https://en.wikipedia.org/wiki/2021_Epik_data_breach"
+
++++
+
+
+In September 2021, <a href="https://arstechnica.com/information-technology/2021/09/anonymous-leaks-gigabytes-of-data-from-epik-web-host-of-gab-and-parler/" target="_blank" rel="noopener">the domain registrar and web host Epik suffered a significant data breach</a>, allegedly in retaliation for hosting alt-right websites. The breach exposed a huge volume of data not just of Epik customers, but also scraped WHOIS records belonging to individuals and organisations who were not Epik customers. The data included over 15 million unique email addresses (including anonymised versions for domain privacy), names, phone numbers, physical addresses, purchases and passwords stored in various formats.
+

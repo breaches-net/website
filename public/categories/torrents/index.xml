@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Torrents on Breaches.net - The Breached Database Directory</title>
+    <link>https://breaches.net/categories/torrents/</link>
+    <description>Recent content in Torrents on Breaches.net - The Breached Database Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://breaches.net/categories/torrents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgusiQ Torrents</title>
+      <link>https://breaches.net/breaches/agusiq-torrents-pl/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/agusiq-torrents-pl/</guid>
+      <description>In September 2019, Polish torrent site AgusiQ-Torrents.pl suffered a data breach. The incident exposed 90k member records including email and IP addresses, usernames and passwords stored as MD5 hashes.</description>
+    </item>
+    
+    <item>
+      <title>AhaShare</title>
+      <link>https://breaches.net/breaches/ahashare-com-1/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/ahashare-com-1/</guid>
+      <description>In May 2013, the torrent site AhaShare.com suffered a breach which resulted in more than 180k user accounts being published publicly. The breach included a raft of personal information on registered users plus despite assertions of not distributing personally identifiable information, the site also leaked the IP addresses used by the registered identities.</description>
+    </item>
+    
+  </channel>
+</rss>

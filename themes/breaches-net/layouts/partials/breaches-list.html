@@ -1,0 +1,27 @@
+<div style="border: 0.5px solid #5150e1;padding: 10px;">
+<div class="table-responsive">
+<table class="table table-striped table-hover" id="breaches">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Entries</th>
+      <th>Date Breached</th>
+      <th>Hashing</th>
+      <th>Privacy</th>
+    </tr>
+  </thead>
+  <tbody>
+{{ range ( where .Site.RegularPages "Type" "breaches") }}
+<tr>
+  <td><a href="{{ .Permalink }}" class="breach-title">{{ .Title }}</a></td>
+  <td>{{ .Params.record_count }}</td>
+  <td>{{ .Params.date_breached }}</td>
+  <td>{{ range $i, $e := .Params.hashing }}{{ if $i }}, {{ end }}{{ printf "%s" $e }}{{ end }}</td>
+  <td>{{ .Params.privacy }}</td>
+</tr>
+{{end}}
+
+     </tbody>
+   </table>
+  </div>
+</div>

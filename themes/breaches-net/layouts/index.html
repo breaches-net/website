@@ -1,0 +1,21 @@
+{{ define "main" }}
+<style>.announcement{color: #e150d3;padding: 5px 10px;font-size: 20px;}td{color: #FFF;font-size:1rem;}th{max-width: 350px;}h4{margin-bottom: 30px;}.input-group{margin-bottom: 50px;}.form-control, .form-control:hover, .form-control:active, .form-control:focus, .form-control:focus-visible{background-color: transparent;border-top: 1px solid #ffffff2e;border-bottom: 1px solid #ffffff2e;height: 50px;border: 1px solid #5150e1;color: white;text-transform: uppercase;;}.dataTables_filter {display: none;}.dataTables_info{text-align: center;float: none !important;}</style>
+<section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 80px;">
+    <div class="container text-center">
+        <span class="announcement"><i class="fa fa-bullhorn"></i> Currently loading in all past known breaches.<br></span>
+        <br>
+        <h1>breaches.<span style="color: #5150e1;">net</span></h1>
+        <h4>The most comprehensive databreach information index</h4>
+        <h4 style="color: #FFF;">Information on over 1000 breaches</h4>
+
+        <div class="input-group func-selector">
+            <input id="search" class="form-control" type="text">
+            <button class="btn btn-primary" style="background-color: #5150e1;" type="submit"><i class="fa fa-search"></i></button>
+        </div>
+
+{{ partial "breaches-list.html" . }}
+
+</main>
+</div>
+</section>
+{{ end }}

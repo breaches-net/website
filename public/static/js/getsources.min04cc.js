@@ -1,0 +1,1 @@
+$.get("./sources.php",(function(e){$("#source-container").html(e),$("#sources").DataTable({})}));

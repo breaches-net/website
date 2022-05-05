@@ -1,0 +1,146 @@
+{{ define "main" }}
+
+{{ if .Params.date_breached}}
+<section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 40px;">
+    <div class="container text-center" style="padding-top: 80px;">
+      <h1>{{ .Title }}
+      {{ if eq .Params.verified "True" }}
+      <i class="fa fa-check-circle" title="This breached has been verified as legitimate." style="color: rgb(99,237,129);"></i>
+      {{ else }}
+      <i class="fa fa-question-circle" title="This breached has not been verified yet." style="color: rgb(176, 184, 184);"></i>
+      {{ end }}
+      </h1>
+      <hr style="background-color: #5150e1;height: 0.5px;">
+      <div id="source-container" style="padding-bottom: 80px;">
+        <section class="team-boxed">
+          <div class="container">
+            <div class="row people">
+              <div class="col-md-12 col-lg-12 item">
+                <div class="box">
+                  <p class="description">{{ .Content }}</p>
+                  <div class="table-responsive">
+                  <table class="table table-striped table-hover">
+                    <thead>
+                      <tr>
+                        <th scope="col" style="width: 150px;">Domain</th>
+                        <th scope="col" style="width: 100px;">Entries</th>
+                        <th scope="col" style="width: 200px;">Date Breached</th>
+                        <th scope="col" style="width: 200px;">Hashing</th>
+                        <th scope="col" style="width: 150px;">Privacy <i class="fa fa-question-circle" title="Please check our FAQ for more information on how we classify if a breach is public/private." style="color: rgb(176, 184, 184);"></i></th>
+                        <th scope="col" style="width: 150px;">acknowledged?</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                       <tr>
+                         <td style="color: #FFF;">{{ .Params.domain }}</td>
+                         <td style="color: #FFF;">{{ .Params.record_count }}</td>
+                         <td style="color: #FFF;">{{ .Params.date_breached }}</td>
+                         <td style="color: #FFF;">{{ range $i, $e := .Params.hashing }}{{ if $i }}, {{ end }}{{ printf "%s" $e }}{{ end }}</td>
+                         <td style="color: #FFF;">{{ .Params.privacy }}</td>
+                         <td style="color: #FFF;">{{ if eq .Params.acknowledged "Yes" }} <a target="_blank" href="{{ .Params.acknowledged_url }}">Yes</a> {{ else }} {{ .Params.acknowledged }} {{ end }}</td>
+                       </tr>
+                    </tbody>
+                  </table>
+                </div>
+                  <p class="title">Information leaked</p>
+                  <p class="description">
+                    {{ range $i, $e := .Params.breached_data }}{{ if $i }}, {{ end }}{{ printf "%s" $e }}{{ end }}
+                  </p>
+                  <hr style="background-color: #5150e1;height: 1px;">
+                  <p>Notice any errors/mistakes in this breach entry? Please contact us and we will fix it ASAP. We strive to be the best and most accurate, so your contribution(s) will be greatly appreciated.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+{{ end }}
+
+
+{{ if eq .Params.page "faq" }}
+
+<section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 80px;padding-top: 80px;">
+    <div class="container privacy-policy">
+        <style>.faq-question {font-weight:  bold} .faq-answer{padding-bottom: 10px}</style>
+        <h1 style="padding-bottom: 10px;">Frequently asked questions</h1>
+        
+        <div class="faq-question"><h4>What is a "breach" and where has the data come from?</h4></div>   
+        <div class="faq-answer"><p>A "breach" is an incident where data is inadvertently exposed in a vulnerable system, usually due to insufficient access controls or security weaknesses in the software. Breached.co aggregates known breaches and enables people to see information about them.</p></div>
+
+        <div class="faq-question"><h4>Can you send me your databases? Can I buy the databases? Can you tell me if my email is in a breach?</h4></div>
+        <div class="faq-answer"><p>No. I will not provide you with any data I have listed on this website.</p></div>
+
+        <div class="faq-question"><h4>What is the purpose of this site? </h4></div>
+        <div class="faq-answer"><p> The purpose of Breaches.net is to offer a reliable source for information about breaches. Unfortunately, many smaller database breaches go unreported by major sources. Thus, we consider what we do to be important as it enables people to find out about which websites have been breached, giving affected website owners the chance to improve the security of their websites and notifying users that they should be wary of what details they give out when signing up for websites.</p></div>
+
+        <div class="faq-question"><h4>Why did you create breaches.net?</h4></div>
+        <div class="faq-answer">
+        <ul>
+            <li>To replace the now defunct vigilante.pw project.</li>
+            <li>To benefit the community with a reliable source on information about breaches.</li>
+            <li>I have nothing better to be doing.</li>
+        </ul>
+        </div>
+
+        <div class="faq-question"><h4>How can I submit a data breach?</h4></div>
+        <div class="faq-answer"><p>You can contact me via one of the methods listed on the contact page.</p></div>
+        
+        <div class="faq-question"><h4>How do you classify if a breach is public/private?</h4></div>
+        <div class="faq-answer"><p> It's a very hard thing to answer, as everyone has different opinions on the matter. I have described below my beliefs on if a databreach is either public, private, semi-public or semi-private.</p>
+        <ul>
+            <li>Public: Available to be downloaded on various forums (XSS.is, BreachForums, Exploit.in); Shared extensively.</li>
+            <li>Semi-Public: At one point in time (Minimum 3 years ago) it was shared for free, but it can no longer be found anywhere publicly.</li>
+            <li>Semi-Private: Breach that has never been shared publicly online, but has been sold/shared many times in closed circles. An example could be the "<a href="/breach/exactis-com" target="_blank">Exactis</a>" breach, sold/shared by <a href="https://twitter.com/vinnytroia" target="_blank">Vinny Troia</a> many times.</li>
+            <li>Private: A breach that less than 8 people currently have in their possession.</li>
+            <li>Not rated: A breach whose status is not 100% known yet.</li>
+        </ul>
+        </div>
+        <div class="faq-question"><h4>Why is my website listed on here?</h4></div>
+        <div class="faq-answer"><p>If your website is listed on here there is a very high chance that your website has been hacked in the past. Please reach out to me and I can try to provide more details for you, and possibly the data so you can alert your users (If I have the data, that is).</p></div>
+    </div>
+</section>
+
+{{ end }}
+
+{{ if eq .Params.page "contact" }}
+
+<section class="bg-dark" id="home" style="min-height: 70vh;padding-bottom: 80px;padding-top: 80px;">
+    <div class="container privacy-policy">
+        <style>.faq-question {font-weight:  bold}</style>
+        <h1 style="padding-bottom: 10px;">Contact us</h1>
+        <div class="faq-question"><h4>>_ Keybase: <span style="color: #FFF;">pompompurin&nbsp;</span><a href="https://keybase.io/pompompurin" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></h4></div> 
+        <div class="faq-question"><h4>>_ Telegram: <span style="color: #FFF;">t.me/paste&nbsp;</span><a href="https://t.me/paste" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></h4></div> 
+        <div class="faq-question"><h4>>_ Email: <span style="color: #FFF;">data@breaches.net</span></h4></div>  
+        <hr style="background-color: #5150e1;height: 0.5px;width:35rem;margin-left:0;">
+    </div>
+</section>
+
+{{ end }}
+
+{{ if eq .Params.page "privacy" }}
+
+<section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 80px;padding-top: 80px;">
+    <div class="container privacy-policy">
+        <style>.faq-question {font-weight:  bold} .faq-answer{padding-bottom: 10px}</style>
+        <h1 style="padding-bottom: 10px;">Privacy Policy</h1>
+        <div class="faq-answer"><p>This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p></div>
+        
+        <div class="faq-question"><h4>GDPR - Information we collect</h4></div>  
+        <div class="faq-answer"><p>We do not collect any personally identifiable information about you.</p></div>
+        
+        <div class="faq-question"><h4>How do we protect visitor information?</h4></div> 
+        <div class="faq-answer"><p>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, sensitive information you supply is frequently encrypted via Secure Socket Layer (SSL) technology.</p></div>
+        
+        <div class="faq-question"><h4>Third party links</h4></div>  
+        <div class="faq-answer"><p>Occasionally, at our discretion, we may include third party links on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.</p></div>
+    </div>
+</section>
+
+{{ end }}
+
+
+{{ end }}
+
+

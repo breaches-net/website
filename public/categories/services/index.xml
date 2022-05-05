@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Breaches.net - The Breached Database Directory</title>
+    <link>https://breaches.net/categories/services/</link>
+    <description>Recent content in Services on Breaches.net - The Breached Database Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://breaches.net/categories/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>000Webhost</title>
+      <link>https://breaches.net/breaches/000webhost-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/000webhost-com/</guid>
+      <description>In approximately March 2015, the free web hosting provider 000webhost suffered a major data breach that exposed over 13 million customer records. The data was sold and traded before 000webhost was alerted in October. The breach included names, email addresses and plain text passwords.</description>
+    </item>
+    
+    <item>
+      <title>123RF</title>
+      <link>https://breaches.net/breaches/123rf-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/123rf-com/</guid>
+      <description>In March 2020, the stock photo site 123RF suffered a data breach which impacted over 8 million subscribers and was subsequently sold online. The breach included email, IP and physical addresses, names, phone numbers and passwords stored as MD5 hashes.</description>
+    </item>
+    
+    <item>
+      <title>143VPN</title>
+      <link>https://breaches.net/breaches/143vpn-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/143vpn-com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>17.media</title>
+      <link>https://breaches.net/breaches/17-media/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/17-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8fit</title>
+      <link>https://breaches.net/breaches/8fit-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/8fit-com/</guid>
+      <description>In July 2018, the health and fitness service 8fit suffered a data breach. The data subsequently appeared for sale on a dark web marketplace in February 2019 and included over 15M unique email addresses alongside names, genders, IP addresses and passwords stored as bcrypt hashes.</description>
+    </item>
+    
+    <item>
+      <title>8tracks</title>
+      <link>https://breaches.net/breaches/8tracks-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/8tracks-com/</guid>
+      <description>In June 2017, the online playlists service known as 8Tracks suffered a data breach which impacted 18 million accounts. In their disclosure, 8Tracks advised that &amp;quot;the vector for the attack was an employee’s GitHub account, which was not secured using two-factor authentication&amp;quot;. Salted SHA-1 password hashes for users who didn&amp;rsquo;t sign up with either Google or Facebook authentication were also included.</description>
+    </item>
+    
+    <item>
+      <title>Aasaanjobs</title>
+      <link>https://breaches.net/breaches/aasaanjobs-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/aasaanjobs-com/</guid>
+      <description>As of October 9th 2021, aasaanjobs.com is redirecting to waahjobs.com. This might be their new company name.</description>
+    </item>
+    
+    <item>
+      <title>ABA for Law Students</title>
+      <link>https://breaches.net/breaches/abaforlawstudents-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/abaforlawstudents-com/</guid>
+      <description>Breached by &amp;ldquo;KelvinSecurity&amp;rdquo; in 2018.</description>
+    </item>
+    
+    <item>
+      <title>ABCDomain</title>
+      <link>https://breaches.net/breaches/abcdomain-am/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/abcdomain-am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abiBids</title>
+      <link>https://breaches.net/breaches/abibids-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/abibids-com/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

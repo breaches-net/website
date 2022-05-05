@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing on Breaches.net - The Breached Database Directory</title>
+    <link>https://breaches.net/categories/marketing/</link>
+    <description>Recent content in Marketing on Breaches.net - The Breached Database Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://breaches.net/categories/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exactis</title>
+      <link>https://breaches.net/breaches/exactis-com/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://breaches.net/breaches/exactis-com/</guid>
+      <description>In June 2018, the marketing firm Exactis inadvertently publicly leaked 340 million records of personal data. The leak contained multiple terabytes of personal information spread across hundreds of separate fields including addresses, phone numbers, family structures and extensive profiling data. The data was collected as part of Exactis&amp;rsquo; service as a &amp;quot;compiler and aggregator of premium business &amp;amp; consumer data&amp;quot; which they then sell for profiling and marketing purposes. A small subset of the exposed fields were provided to Have I Been Pwned and contained 132 million unique email addresses.</description>
+    </item>
+    
+  </channel>
+</rss>
