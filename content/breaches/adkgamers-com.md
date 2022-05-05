@@ -1,5 +1,4 @@
 +++
-
 title = "ADKGamers"
 domain = "https://adkgamers.com"
 date_breached = "2016-08-02"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["IPB", "blowfish"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming", "Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

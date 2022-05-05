@@ -1,5 +1,4 @@
 +++
-
 title = "Flash Flash Revolution (2016 breach)"
 domain = "https://flashflashrevolution.com"
 date_breached = "2016-02-01"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
-
-
 +++
-
-
 In February 2016, the music-based rhythm game known as <a href="http://www.flashflashrevolution.com" target="_blank" rel="noopener">Flash Flash Revolution</a> was hacked and 1.8M accounts were exposed. Along with email and IP addresses, the vBulletin forum also exposed salted MD5 password hashes.
-

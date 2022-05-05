@@ -1,5 +1,4 @@
 +++
-
 title = "AddictedCheats"
 domain = "https://addictedcheats.net"
 date_breached = "2016-06-03"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Hacking", "Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

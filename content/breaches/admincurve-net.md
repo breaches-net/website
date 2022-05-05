@@ -1,5 +1,4 @@
 +++
-
 title = "AdminCurve"
 domain = "https://admincurve.net"
 date_breached = "2013-03-25"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "False"
 hashing = ["MyBB", "IPB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

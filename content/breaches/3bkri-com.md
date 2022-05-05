@@ -1,5 +1,4 @@
 +++
-
 title = "3bkri"
 domain = "https://3bkri.com/"
 date_breached = "2021-04-30"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["plaintext"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = ["Education"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

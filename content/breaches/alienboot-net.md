@@ -1,5 +1,4 @@
 +++
-
 title = "AlienBoot"
 domain = "https://alienboot.net"
 date_breached = "2018-03-20"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["SHA-1"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names", "IP addresses"]
-type = ["posts","post"]
 categories = ["Hacking", "Booter"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

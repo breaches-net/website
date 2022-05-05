@@ -1,5 +1,4 @@
 +++
-
 title = "abiBids"
 domain = "https://abibids.com"
 date_breached = "2021-04-11"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Shopping", "Services"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

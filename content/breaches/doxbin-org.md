@@ -8,7 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Hacking"]
 acknowledged = "Yes"
 acknowledged_url = "https://web.archive.org/web/20220226004944/https://doxbin.com/dataleak?d=1"

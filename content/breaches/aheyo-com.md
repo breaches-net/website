@@ -1,5 +1,4 @@
 +++
-
 title = "Aheyo"
 domain = "https://aheyo.com"
 date_breached = "2017-02-18"
@@ -9,13 +8,6 @@ privacy = "Semi-public"
 Verified = "True"
 hashing = ["SHA-256"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Unknown"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

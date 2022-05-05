@@ -1,5 +1,4 @@
 +++
-
 title = "AIA Piercing"
 domain = "https://aiapiercing.com"
 date_breached = "2009-02-08"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names", "Phone numbers", "Physical addresses"]
-type = ["posts","post"]
 categories = ["Shopping"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

@@ -1,5 +1,4 @@
 +++
-
 title = "Alora"
 domain = "https://alora.io"
 date_breached = "2018-10-02"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

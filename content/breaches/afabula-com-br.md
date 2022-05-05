@@ -1,5 +1,4 @@
 +++
-
 title = "Fabula"
 domain = "https://afabula.com.br"
 date_breached = "2021-06-22"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Email addresses", "Names", "Phone numbers", "Physical addresses", "Banking information"]
-type = ["posts","post"]
 categories = ["Shopping"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

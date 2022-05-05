@@ -1,5 +1,4 @@
 +++
-
 title = "AceHCF"
 domain = "acehcf.us"
 date_breached = "2017-08-15"
@@ -9,13 +8,6 @@ privacy = "Semi-public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

@@ -1,5 +1,4 @@
 +++
-
 title = "Aerocare"
 domain = "https://aerocare.com.au"
 date_breached = "2021-01-07"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Email addresses", "Names", "Phone numbers", "Physical addresses"]
-type = ["posts","post"]
 categories = ["Services"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

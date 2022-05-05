@@ -1,5 +1,4 @@
 +++
-
 title = "4uck"
 domain = "http://4uck.org"
 date_breached = "2017-01-02"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

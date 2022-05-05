@@ -1,5 +1,4 @@
 +++
-
 title = "AccountSupplier"
 domain = "https://accountsupplier.com"
 date_breached = "2015-07-24"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["Unknown"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Hacking", "Services"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

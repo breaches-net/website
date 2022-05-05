@@ -8,7 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
 +++

@@ -1,5 +1,4 @@
 +++
-
 title = "5Head Gaming"
 domain = "https://5headgaming.com"
 date_breached = "2015-12-11"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MyBB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names", "IP addresses", "Dates of birth"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

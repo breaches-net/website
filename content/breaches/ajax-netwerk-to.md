@@ -1,5 +1,4 @@
 +++
-
 title = "Ajax.netwerk.to"
 domain = "https://ajax.netwerk.to"
 date_breached = "2017-05-01"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["plaintext"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names"]
-type = ["posts","post"]
 categories = ["Sports"]
 acknowledged = "No"
-
-
 +++
-
-
 Passwords were generated, not set by the user.
-

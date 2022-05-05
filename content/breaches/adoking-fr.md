@@ -1,5 +1,4 @@
 +++
-
 title = "Adoking.fr"
 domain = "https://adoking.fr"
 date_breached = "2017-02-18"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses", "Genders"]
-type = ["posts","post"]
 categories = ["Unknown"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

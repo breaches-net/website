@@ -1,5 +1,4 @@
 +++
-
 title = "3Roms"
 domain = "https://3roms.com"
 date_breached = "2017-03-24"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

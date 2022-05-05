@@ -1,5 +1,4 @@
 +++
-
 title = "MPGH"
 domain = "https://mpgh.net"
 date_breached = "2015-10-22"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "IP addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
-
-
 +++
-
-
 In October 2015, the multiplayer game hacking website <a href="http://www.mpgh.net">MPGH was hacked</a> and 3.1 million user accounts disclosed. The vBulletin forum breach contained usernames, email addresses, IP addresses and salted hashes of passwords.
-

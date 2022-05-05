@@ -1,5 +1,4 @@
 +++
-
 title = "AllWomensTalk"
 domain = "https://allwomenstalk.com"
 date_breached = "2016-01-05"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["Wordpress"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
 Breached by "twitter.com/ciadotgov" in 2016.
-

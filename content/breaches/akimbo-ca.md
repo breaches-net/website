@@ -1,5 +1,4 @@
 +++
-
 title = "Akimbo"
 domain = "https://akimbo.ca"
 date_breached = "2016-10-11"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["DEScrypt"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = ["Art"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

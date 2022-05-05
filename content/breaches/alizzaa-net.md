@@ -1,5 +1,4 @@
 +++
-
 title = "Alizzaa"
 domain = "https://alizzaa.net"
 date_breached = "2019-11-14"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

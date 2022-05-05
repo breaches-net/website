@@ -1,5 +1,4 @@
 +++
-
 title = "Aerocenter"
 domain = "https://aerocenter.ir"
 date_breached = "2017-02-10"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

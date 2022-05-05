@@ -1,5 +1,4 @@
 +++
-
 title = "AbiDoc"
 domain = "https://abidoc.com"
 date_breached = "2016-08-23"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["plaintext"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = ["Services"]
 acknowledged = "No"
-
-
 +++
-
-
 Breached by "Motaz saqr" in 2016.
-

@@ -1,5 +1,4 @@
 +++
-
 title = "Army Force Online"
 domain = "https://armyforceonline.com"
 date_breached = "2016-05-18"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Avatars", "Email addresses", "Geographic locations", "IP addresses", "Names", "Passwords", "Usernames", "Website activity"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
-
-
 +++
-
-
 In May 2016, the online gaming site <a href="http://armyforceonline.com" target="_blank" rel="noopener">Army Force Online</a> suffered a data breach that exposed 1.5M accounts. The breached data was found being regularly traded online and included usernames, email and IP addresses and MD5 passwords.
-

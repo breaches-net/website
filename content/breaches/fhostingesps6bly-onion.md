@@ -1,5 +1,4 @@
 +++
-
 title = "Freedom Hosting II"
 domain = "https://fhostingesps6bly.onion"
 date_breached = "2017-01-31"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Hosting"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

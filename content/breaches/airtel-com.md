@@ -1,5 +1,4 @@
 +++
-
 title = "Airtel"
 domain = "https://airtel.com"
 date_breached = "2016-02-10"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Email addresses", "Usernames", "Physical addresses", "Genders"]
-type = ["posts","post"]
 categories = ["Telecommunications"]
 acknowledged = "No"
-
-
 +++
-
-
 Not all 202k records have email addresses. We only found 30,874 unique email addresses in this data.
-

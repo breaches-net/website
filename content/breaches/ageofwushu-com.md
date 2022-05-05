@@ -1,5 +1,4 @@
 +++
-
 title = "Age of Wushu"
 domain = "https://ageofwushu.com"
 date_breached = "2015-03-15"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

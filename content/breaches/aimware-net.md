@@ -1,5 +1,4 @@
 +++
-
 title = "AimWare"
 domain = "https://aimware.net"
 date_breached = "2019-04-28"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MyBB", "IPB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names", "IP addresses", "Banking information"]
-type = ["posts","post"]
 categories = ["Gaming", "Hacking"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

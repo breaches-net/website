@@ -8,7 +8,6 @@ privacy = "Not rated"
 Verified = "True"
 hashing = ["plaintext"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
 

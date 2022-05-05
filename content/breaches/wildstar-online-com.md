@@ -8,7 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5", "IPB"]
 breached_data = ["Dates of birth", "Email addresses", "IP addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
 

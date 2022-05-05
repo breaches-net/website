@@ -1,5 +1,4 @@
 +++
-
 title = "uuu9"
 domain = "https://uuu9.com"
 date_breached = "2016-09-06"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
-
-
 +++
-
-
 In September 2016, data was allegedly obtained from the Chinese website known as <a href="http://www.uuu9.com" target="_blank" rel="noopener">uuu9.com</a> and contained 7.5M accounts. The data in the breach contains email addresses and user names.
-

@@ -1,5 +1,4 @@
 +++
-
 title = "9teens"
 domain = "https://9teens.org"
 date_breached = "2016-11-21"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

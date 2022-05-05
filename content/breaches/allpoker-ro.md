@@ -1,5 +1,4 @@
 +++
-
 title = "AllPoker"
 domain = "https://allpoker.ro"
 date_breached = "2014-08-19"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names"]
-type = ["posts","post"]
 categories = ["Gambling"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

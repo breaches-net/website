@@ -1,5 +1,4 @@
 +++
-
 title = "Adecco"
 domain = "adecco.com"
 date_breached = "2021-03-01"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt"]
 breached_data = ["Email addresses", "Passwords", "Names", "Phone numbers", "Physical addresses", "Genders"]
-type = ["posts","post"]
 categories = ["Services"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

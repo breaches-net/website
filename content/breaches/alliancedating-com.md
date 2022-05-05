@@ -1,5 +1,4 @@
 +++
-
 title = "AllianceDating"
 domain = "https://alliancedating.com"
 date_breached = "2018-08-24"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["plaintext"]
 breached_data = ["Email addresses", "Passwords", "Names", "Dates of birth"]
-type = ["posts","post"]
 categories = ["Dating"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

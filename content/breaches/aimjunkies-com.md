@@ -1,5 +1,4 @@
 +++
-
 title = "AimJunkies"
 domain = "https://aimjunkies.com"
 date_breached = "2014-04-19"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Email addresses", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming", "Hacking"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

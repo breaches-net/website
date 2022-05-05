@@ -1,5 +1,4 @@
 +++
-
 title = "ACParadise"
 domain = "https://acparadise.com"
 date_breached = "2016-07-12"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt", "phpBB3"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
 Leaked by SonnySpooks on siph0n in 2016.
-

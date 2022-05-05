@@ -8,7 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["SHA-1", "SHA-512"]
 breached_data = ["Dates of birth", "Email addresses", "Genders", "Names", "Passwords", "Phone numbers", "Physical addresses", "Social media profiles", "Usernames"]
-type = ["posts","post"]
 categories = []
 acknowledged = "No"
 

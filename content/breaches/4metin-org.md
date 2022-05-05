@@ -1,5 +1,4 @@
 +++
-
 title = "4Metin"
 domain = "https://4Metin.org"
 date_breached = "2016-08-28"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "False"
 hashing = ["phpBB3"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names", "IP addresses", "Dates of birth"]
-type = ["posts","post"]
 categories = ["Gaming"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

@@ -1,5 +1,4 @@
 +++
-
 title = "AeroQuad"
 domain = "https://aeroquad.com"
 date_breached = "2016-11-20"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Gaming", "Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

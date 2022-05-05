@@ -1,5 +1,4 @@
 +++
-
 title = "Armed Forces of Bangladesh"
 domain = "https://afd.gov.bd"
 date_breached = "2016-08-13"
@@ -9,13 +8,7 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Government"]
 acknowledged = "No"
-
-
 +++
-
-
 Breached by "Kerala Cyber Warriors" in 2016.
-

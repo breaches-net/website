@@ -8,7 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["N/A"]
 breached_data = ["Email addresses"]
-type = ["posts","post"]
 categories = ["Scraped Data"]
 acknowledged = "No"
 +++

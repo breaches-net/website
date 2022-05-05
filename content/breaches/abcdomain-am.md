@@ -1,5 +1,4 @@
 +++
-
 title = "ABCDomain"
 domain = "https://abcdomain.am"
 date_breached = "2013-02-01"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords"]
-type = ["posts","post"]
 categories = ["Services"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

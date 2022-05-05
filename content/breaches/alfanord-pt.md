@@ -1,5 +1,4 @@
 +++
-
 title = "Alfanord"
 domain = "https://alfanord.pt"
 date_breached = "2021-08-07"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["Wordpress"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Dates of birth"]
-type = ["posts","post"]
 categories = ["Shopping"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

@@ -1,5 +1,4 @@
 +++
-
 title = "ABA for Law Students"
 domain = "https://abaforlawstudents.com"
 date_breached = "2018-12-03"
@@ -9,13 +8,7 @@ privacy = "Semi-public"
 Verified = "True"
 hashing = ["Wordpress"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "Names"]
-type = ["posts","post"]
 categories = ["Services"]
 acknowledged = "No"
-
-
 +++
-
-
 Breached by "KelvinSecurity" in 2018.
-

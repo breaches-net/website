@@ -1,5 +1,4 @@
 +++
-
 title = "4cheat.ru"
 domain = "https://4cheat.ru"
 date_breached = "2018-03-13"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames", "IP addresses"]
-type = ["posts","post"]
 categories = ["Hacking"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

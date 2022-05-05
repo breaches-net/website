@@ -1,5 +1,4 @@
 +++
-
 title = "40kforums"
 domain = "https://40kforums.com"
 date_breached = "2017-02-05"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["vB"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

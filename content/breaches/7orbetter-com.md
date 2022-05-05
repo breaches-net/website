@@ -1,5 +1,4 @@
 +++
-
 title = "7OrBetter"
 domain = "https://7orbetter.com"
 date_breached = "2015-02-23"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Dating"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

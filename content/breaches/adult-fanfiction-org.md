@@ -1,5 +1,4 @@
 +++
-
 title = "Adult FanFiction"
 domain = "https://adult-fanfiction.org"
 date_breached = "2018-05-30"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["bcrypt", "plaintext", "IPB"]
 breached_data = ["Email addresses", "Passwords", "Names", "Dates of birth"]
-type = ["posts","post"]
 categories = ["Porn", "Forums"]
 acknowledged = "No"
-
-
 +++
-
-
-
-

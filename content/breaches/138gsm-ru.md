@@ -1,5 +1,4 @@
 +++
-
 title = "138gsm"
 domain = "https://138gsm.ru"
 date_breached = "2019-02-18"
@@ -9,13 +8,6 @@ privacy = "Public"
 Verified = "True"
 hashing = ["MD5"]
 breached_data = ["Email addresses", "Passwords", "Usernames"]
-type = ["posts","post"]
 categories = ["Shopping"]
 acknowledged = "No"
-
-
 +++
-
-
-
-
