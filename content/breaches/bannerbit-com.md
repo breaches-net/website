@@ -11,4 +11,4 @@ breached_data = ["Email addresses", "Passwords"]
 categories = []
 acknowledged = "No"
 +++
-In approximately December 2018, the online ad platform <a href="https://bannerbit.com/" target="_blank" rel="noopener">BannerBit</a> suffered a data breach. Containing 213k unique email addresses and plain text passwords, the data was provided to HIBP by a third party. Multiple attempts were made to contact BannerBit, but no response was received.
+In approximately December 2018, the online ad platform <a href="https://bannerbit.com/" target="_blank" rel="noopener">BannerBit</a> suffered a data breach. Containing 213k unique email addresses and plain text passwords. Multiple attempts were made to contact BannerBit, but no response was received.

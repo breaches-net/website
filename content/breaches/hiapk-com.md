@@ -11,4 +11,4 @@ breached_data = ["Email addresses", "Passwords", "Usernames"]
 categories = []
 acknowledged = "No"
 +++
-In approximately 2014, it's alleged that the Chinese Android store known as <a href="http://hiapk.com/" target="_blank" rel="noopener">HIAPK</a> suffered a data breach that impacted 13.8 million unique subscribers. The data in the breach contains usernames, email addresses and salted MD5 password hashes and was provided to HIBP by white hat security researcher and data analyst Adam Davies.
+In approximately 2014, it's alleged that the Chinese Android store known as <a href="http://hiapk.com/" target="_blank" rel="noopener">HIAPK</a> suffered a data breach that impacted 13.8 million unique subscribers. The data in the breach contains usernames, email addresses and salted MD5 password hashes.

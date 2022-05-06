@@ -11,4 +11,4 @@ breached_data = ["Email addresses", "Names", "Passwords", "Phone numbers", "Phys
 categories = []
 acknowledged = "No"
 +++
-In February 2019, the custom merchandise retailer <a href="https://www.cafepress.com/" target="_blank" rel="noopener">CafePress</a> suffered a data breach. The exposed data included 23 million unique email addresses with some records also containing names, physical addresses, phone numbers and passwords stored as SHA-1 hashes. The data was provided to HIBP by a source who requested it be attributed to "JimScott.Sec@protonmail.com".
+In February 2019, the custom merchandise retailer <a href="https://www.cafepress.com/" target="_blank" rel="noopener">CafePress</a> suffered a data breach. The exposed data included 23 million unique email addresses with some records also containing names, physical addresses, phone numbers and passwords stored as SHA-1 hashes.
