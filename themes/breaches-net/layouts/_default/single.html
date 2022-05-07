@@ -2,13 +2,7 @@
 {{ if .Params.date_breached}}
 <section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 40px;">
     <div class="container text-center" style="padding-top: 80px;">
-      <h1>{{ .Title }}
-      {{ if eq .Params.verified "True" }}
-      <i class="fa fa-check-circle" title="This breached has been verified as legitimate." style="color: rgb(99,237,129);"></i>
-      {{ else }}
-      <i class="fa fa-question-circle" title="This breached has not been verified yet." style="color: rgb(176, 184, 184);"></i>
-      {{ end }}
-      </h1>
+      <h1>{{ .Title }}{{ if eq .Params.verified "True" }}<i class="fa fa-check-circle" title="This breached has been verified as legitimate." style="color: rgb(99,237,129);"></i>{{ else }}<i class="fa fa-question-circle" title="This breached has not been verified yet." style="color: rgb(176, 184, 184);"></i>{{ end }}</h1>
       <hr style="background-color: #5150e1;height: 0.5px;">
       <div id="source-container" style="padding-bottom: 80px;">
         <section class="team-boxed">
@@ -54,12 +48,9 @@
         </section>
       </div>
     </div>
-  </section>
+</section>
 {{ end }}
-
-
 {{ if eq .Params.page "faq" }}
-
 <section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 80px;padding-top: 80px;">
     <div class="container privacy-policy">
         <style>.faq-question {font-weight:  bold} .faq-answer{padding-bottom: 10px}</style>
@@ -100,11 +91,8 @@
         <div class="faq-answer"><p>If your website is listed on here there is a very high chance that your website has been hacked in the past. Please reach out to me and I can try to provide more details for you, and possibly the data so you can alert your users (If I have the data, that is).</p></div>
     </div>
 </section>
-
 {{ end }}
-
 {{ if eq .Params.page "contact" }}
-
 <section class="bg-dark" id="home" style="min-height: 70vh;padding-bottom: 80px;padding-top: 80px;">
     <div class="container privacy-policy">
         <style>.faq-question {font-weight:  bold}</style>
@@ -115,11 +103,8 @@
         <hr style="background-color: #5150e1;height: 0.5px;width:35rem;margin-left:0;">
     </div>
 </section>
-
 {{ end }}
-
 {{ if eq .Params.page "privacy" }}
-
 <section class="bg-dark" id="home" style="min-height: 100vh;padding-bottom: 80px;padding-top: 80px;">
     <div class="container privacy-policy">
         <style>.faq-question {font-weight:  bold} .faq-answer{padding-bottom: 10px}</style>
@@ -136,10 +121,5 @@
         <div class="faq-answer"><p>Occasionally, at our discretion, we may include third party links on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.</p></div>
     </div>
 </section>
-
 {{ end }}
-
-
 {{ end }}
-
-
