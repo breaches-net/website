@@ -13,4 +13,4 @@ acknowledged = "No"
 
 +++
 
-In approximately April 2016, the gaming website <a href="https://www.play-gar.com/" target="_blank" rel="noopener">Guns and Robots</a> suffered a data breach resulting in the exposure of 143k unique records. The data contained email and IP addresses, usernames and SHA-1 password hashes. The site was previously reported as compromised on the <a href="https://vigilante.pw/" target="_blank" rel="noopener">Vigilante.pw</a> breached database directory.
+In approximately April 2016, the gaming website <a href="https://www.play-gar.com/" target="_blank" rel="noopener">Guns and Robots</a> suffered a data breach resulting in the exposure of 143k unique records. The data contained email and IP addresses, usernames and SHA-1 password hashes.
