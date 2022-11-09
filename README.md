@@ -8,7 +8,7 @@ Made using Hugo (https://gohugo.io/) and a modified version of the Theme "hello-
 </div>
 
 # Want a breach added to the list?
-- Create a new file in `/content/breaches/` folder. File name must have periods replaced with dots, and follow the format that all the other breach entries follow (e.g. a breach of doxbin.org would have the filename `doxbin-org.md`).
+- Create a new file in `/content/breaches/` folder. File name must have periods replaced with hyphens, and follow the format that all the other breach entries follow (e.g. a breach of doxbin.org would have the filename `doxbin-org.md`).
 - Use the tool found here: https://www.pompur.in/breach-report.html to format the file for you.
 - Create either a Pull Request with the file added, or create a new issue with the output from the tool above.
 
